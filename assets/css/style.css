@@ -66,15 +66,13 @@ body {
 /* MAIN CONTENT */
 .wrapper {
   display: flex;
-  justify-content: flex-start;
-  /* flex-direction: column; */
   flex-wrap: wrap;
 }
 
 .content {
   background-color: #d9dcd6;
   padding: 20px;
-  flex: 2;
+  flex: 3;
 }
 
 .benefits {
@@ -84,7 +82,6 @@ body {
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
   background-color: #2589bd;
   color: #ffffff;
-  width: 25%;
 }
 
 .float-left {
