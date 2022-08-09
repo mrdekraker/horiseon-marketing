@@ -55,7 +55,3 @@ css-tricks: https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 ## License
 
 Please refer to the LICENSE in the repo.
-
-```
-
-```
