@@ -11,13 +11,13 @@ The first aesthetic code I applied was to add an a:hover on the navigation bar. 
 No hover:
 
 ```md
-![Nav Bar - no hover](assets/images/nav-normal.png)
+![Nav Bar - no hover](./assets/images/nav-normal.png)
 ```
 
 Hover:
 
 ```md
-~[Nav Bar - Hover](assets/images/nav-hover.png)
+![Nav Bar - Hover](./assets/images/nav-hover.png)
 ```
 
 The second thing I did was wrap the entire Navigation bar with a div and added a flex-box to it so that the links would stack nicely under the company name when the screen size was adjusted.
@@ -25,7 +25,7 @@ The second thing I did was wrap the entire Navigation bar with a div and added a
 Mobile size:
 
 ```md
-![Nav Bar - Mobile Size](assets/images/nav-mobile.png)
+![Nav Bar - Mobile Size](./assets/images/nav-mobile.png)
 ```
 
 Within the CSS file of this project, I cleaned up the coding so that DRY code was eliminated.
@@ -33,7 +33,7 @@ Within the CSS file of this project, I cleaned up the coding so that DRY code wa
 I also added a "wrapper" flex-box div around both the marketing services section and the benefits section so that when the screen was adjusted it would descale cleanly.
 
 ```md
-![Flex-box div](assets/images/flexbox-div.png)
+![Flex-box div](./assets/images/flexbox-div.png)
 ```
 
 My most time consuming aspect that I experienced was figuring out flex-box correctly. Link under credits for the tutorial I followed.
