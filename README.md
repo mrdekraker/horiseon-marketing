@@ -44,13 +44,11 @@ I also added a "wrapper" flex-box div around both the marketing services section
 
 My most time consuming aspect that I experienced was figuring out flex-box correctly. Link under credits for the tutorial I followed.
 
-## Installation
+---
 
-N/A
+# https://mrdekraker.github.io/horiseon-marketing/
 
-## Usage
-
-N/A
+---
 
 ## Credits
 
